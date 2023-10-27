@@ -4,7 +4,6 @@ on:
   push:
     branches:
       - main
-     branches:
       - dev
 
 jobs:
@@ -29,4 +28,3 @@ jobs:
       run: python3 mongodb_connection.py
       env:
         MONGODB_URI: ${{ secrets.MONGODB_URI }}
-
