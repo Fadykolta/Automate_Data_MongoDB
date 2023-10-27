@@ -1,13 +1,12 @@
-{
-    "Answer1": "New1",
-    "Answer2": "New2",
-    "Answer3": "New3"
-}
-
-,
-
-{
-    "Answer1": "New4",
-    "Answer2": "New5",
-    "Answer3": "New6"
-}
+[
+    {
+        "Answer1": "New1",
+        "Answer2": "New2",
+        "Answer3": "New3"
+    },
+    {
+        "Answer1": "New4",
+        "Answer2": "New5",
+        "Answer3": "New6"
+    }
+]
